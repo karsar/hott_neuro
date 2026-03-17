@@ -1,6 +1,6 @@
 # Functorial Neural Architectures from Higher Inductive Types
 
-Code and formalization for the paper *Functorial Neural Architectures from Higher Inductive Types* (ACT 2026).
+Code and formalization for the paper *Functorial Neural Architectures from Higher Inductive Types*.
 
 ## Repository structure
 
